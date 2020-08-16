@@ -1,4 +1,4 @@
-# testpigeon
+# viapigeon
 
 A new Flutter application.
 
@@ -16,5 +16,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ```
-flutter pub run pigeon  --input pigeons/message.dart  --dart_out lib/pigeon.dart  --objc_header_out ios/Runner/pigeon.h --objc_source_out ios/Runner/pigeon.m --java_out android/app/src/main/java/com/shuyu/testpigeon/Pigeon.java --java_package "com.via.aespigeon"
+flutter pub run pigeon  --input pigeons/message.dart  --dart_out lib/pigeon.dart  --objc_header_out ios/Runner/pigeon.h --objc_source_out ios/Runner/pigeon.m --java_out android/app/src/main/java/com/via/viapigeon/Pigeon.java --java_package "com.via.viapigeon"
 ```
